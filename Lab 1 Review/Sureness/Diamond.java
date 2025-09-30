@@ -1,5 +1,6 @@
 public class Diamond {
     public static void main(String[] args) {
+        //size of the diamond
         int n = 5;
 
         // upper half

@@ -1,6 +1,6 @@
 public class SumPrime {
     public static void main(String[] args) {
-        int[] nums = {2, 3, 4, 5, 6, 7, 8, 9, 10};
+    int[] nums = {2, 3, 4, 5, 6, 7, 8, 9, 10};
     int sum = 0;
 
     for (int n : nums) {
